@@ -7,6 +7,8 @@ This project is designed to develop a predictive model for optimizing the routin
 ├── data/
 │   ├── raw/                        # Raw data files (PSP_Jan_Feb_2019.xlsx)
 │   └── processed/                  # Processed data files (processed_transactions.csv)
+├── docs/
+│   └── Credit Card Routing Predictive Model - Case Study for DLMDSME01.docx
 ├── reports/                        # Analysis results, plots, and model outputs
 │   ├── .png files                  # Plots for model evaluation and comparison
 │   └── .txt files                  # Final evaluation metrics and business insights
