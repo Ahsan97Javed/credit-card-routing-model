@@ -1,0 +1,6 @@
+pandas==2.1.4
+matplotlib==3.8.0
+scikit-learn==1.5.2
+seaborn==0.12.2
+imbalanced-learn==0.12.4
+openpyxl==3.0.10
