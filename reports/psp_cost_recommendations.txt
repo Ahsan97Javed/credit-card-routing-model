@@ -1,0 +1,4 @@
+The most cost-effective PSP is: Simplecard with a total cost of €7207.00
+The most expensive PSP is: UK_Card with a total cost of €36743.00
+
+To reduce costs and improve success rates, consider using Simplecard for transactions whenever possible.

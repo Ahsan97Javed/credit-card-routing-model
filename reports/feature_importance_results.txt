@@ -1,0 +1,11 @@
+Feature Importances (sorted):
+amount: 0.4252
+PSP_encoded: 0.2228
+hour: 0.2091
+day_of_week: 0.0950
+3D_secured: 0.0479
+
+Top 3 features selected:
+amount
+PSP_encoded
+hour

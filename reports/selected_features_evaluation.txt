@@ -1,0 +1,15 @@
+Random Forest Accuracy with Selected Features: 74.36%
+
+Confusion Matrix with Selected Features:
+[[10704  1475]
+ [ 2402   542]]
+
+Classification Report with Selected Features:
+              precision    recall  f1-score   support
+
+           0       0.82      0.88      0.85     12179
+           1       0.27      0.18      0.22      2944
+
+    accuracy                           0.74     15123
+   macro avg       0.54      0.53      0.53     15123
+weighted avg       0.71      0.74      0.72     15123

@@ -1,0 +1,18 @@
+Fitting 5 folds for each of 288 candidates, totalling 1440 fits
+Best Parameters: {'bootstrap': True, 'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}
+
+Best Random Forest Accuracy after Tuning with Selected Features: 80.17%
+
+Confusion Matrix for Advanced Tuned Model:
+[[12038   141]
+ [ 2858    86]]
+
+Classification Report for Advanced Tuned Model:
+              precision    recall  f1-score   support
+
+           0       0.81      0.99      0.89     12179
+           1       0.38      0.03      0.05      2944
+
+    accuracy                           0.80     15123
+   macro avg       0.59      0.51      0.47     15123
+weighted avg       0.72      0.80      0.73     15123

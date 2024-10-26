@@ -1,0 +1,5 @@
+PSP,total_transactions,successful_transactions,failed_transactions
+Goldcard,3208,1303,1905
+Moneycard,8297,1815,6482
+Simplecard,12446,1968,10478
+UK_Card,26459,5142,21317
